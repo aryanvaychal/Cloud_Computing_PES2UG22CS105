@@ -1,4 +1,5 @@
-##Modifications made
+Modifications made
+
  /cart/init
  The code has been updated to reduce the number of database requests:
 
